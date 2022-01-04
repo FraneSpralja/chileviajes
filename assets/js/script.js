@@ -12,10 +12,10 @@ $(function(){
         };
     });
     $("h5").on("dblclick", function(){
-        #(this).css({
-            'font-weight':'bold',
-            'color':'red',
-            'font-size':'2em',
-        })
-    })
+        $(this).css({
+            'font-weight' : 'bold',
+            'color' : 'red',
+            'font-size' : '2em',
+        });
+    });
 });
