@@ -1,3 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 1.5em;
+}
+
+.page-title {
+    font-family: 'Cabin', sans-serif;
+}
+
+h1.page-title {
+    font-size: 3em;
+}
+
+h2.page-title {
+    font-size: 2em;
+}
+
+h5.page-title {
+    font-size: 1.7em;
+}
+
 #chileViajes {
     margin-top: 4em;
 }
