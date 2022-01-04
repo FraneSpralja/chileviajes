@@ -1,0 +1,84 @@
+#chileViajes {
+    margin-top: 4em;
+}
+
+.carousel-caption {
+    margin-bottom: 3em;
+}
+
+.carousel-indicators button {
+    width: 3em;
+    margin: 0 1em;
+}
+
+.container-fluid {
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
+.icon-block {
+    width: fit-content;
+    margin: auto;
+}
+
+.col-4 i {
+    font-size: 8em;
+}
+
+.back-about-1 {
+    background-color: olive;
+    padding: 40px 20px;
+}
+
+.back-about-2 {
+    background-color: yellowgreen;
+    top: 0;
+    padding: 40px 20px;
+}
+
+.card {
+    width: 48%;
+    margin-bottom: 1em;
+}
+
+.card-img-top {
+    margin-top: 1em;
+}
+
+#footerLogo {
+    width: 5%;
+}
+
+.social-footer {
+    font-size: 2em;
+    color: #000;
+}
+
+
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+@media (max-width: 720px) {
+    #about {
+        margin-top: 0 !important;
+    }
+    .about-text {
+        display: none;
+    }
+    .text-center {
+        width: 90%;
+    }
+    .card {
+        width: 85%;
+        margin: 1em auto;
+    }
+    .social-footer {
+        margin-left: auto;
+        margin-right: auto;
+        padding-right: 0 !important;
+    }
+}
